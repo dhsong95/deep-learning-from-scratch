@@ -2,7 +2,7 @@
 Authod: DHSong
 Last Modified: 2020.06.29
 Textbook: 밑바닥부터 시작하는 딥러닝 1 - 3장
-Description: Activation Fuction: Step Function
+Description: Activation Fuction
 """
 
 import numpy as np
